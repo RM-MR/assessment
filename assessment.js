@@ -63,11 +63,11 @@ assessmentButton.onclick = () => {
 };
 
 const answers = [
-   '{userName} have a good voice.{userName} have a distinctive voice which can stick heart',
+   '{userName}のいいところはその声です。.{userName}の声は心を魅惑するでしょう。',
    '{userName}のいいところはまなざしです。{userName}に見つめられた人は、気になって仕方がないでしょう。',
-   '{userName} have a passion.{userName}! Your passion gives people influence.',
+   '{userName}のいいところは情熱です。.{userName}の情熱が人々を元気付けるでしょう。',
    '{userName}のいいところは厳しさです。{userName}の厳しさがものごとをいつも成功に導きます。',
-   '{userName} have knowleage.博識な{userName}を多くの人が頼りにしています。',
+   '{userName}のいいところは豊富な知識です。.博識な{userName}を多くの人が頼りにしています。',
    '{userName}のいいところはユニークさです。{userName}だけのその特徴が皆を楽しくさせます。',
    '{userName}のいいところは用心深さです。{userName}の洞察に、多くの人が助けられます。',
    '{userName}のいいところは見た目です。内側から溢れ出る{userName}の良さに皆が気を惹かれます。',
